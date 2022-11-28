@@ -9,7 +9,7 @@ Manage GitHub scripts and documents
 
 Task preparation:
 
-Create a folder “Skills2022” in your DEVASC virtual machine and start a git repository.
+Create a folder “Skills2022v2” in your DEVASC virtual machine and start a git repository.
 
 Task implementation:
 
