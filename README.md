@@ -107,7 +107,7 @@ Also we need docker to use containers.
 
 Task implementation:
 
-To make this task we should use sriptntp.sh that makes exactly same work as a command in Task 3.
+To make this task we should use Pipeline that makes exactly same work as a command in Task 3.
 
 Task troubleshooting:
 
